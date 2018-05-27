@@ -11,7 +11,7 @@ export const environment = {
     databaseURL: 'https://rra2-ce011.firebaseio.com',
     projectId: 'rra2-ce011',
     storageBucket: 'rra2-ce011.appspot.com',
-    messagingSenderId: '624648151812'
+    messagingSenderId: '624648151812',
   }
 };
 
